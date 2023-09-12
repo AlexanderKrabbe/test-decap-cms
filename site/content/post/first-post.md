@@ -6,3 +6,7 @@ description: It will be interesting to see how this cms actually does. Where are
 image: img/about-reinvest-profits.jpg
 ---
 This will be the first post from det *decap cms*
+
+
+
+![](site/static/img/products-grid3.jpg "Reused image")
